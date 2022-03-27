@@ -11,6 +11,7 @@
   inputs.src-parsetoml-master.ref   = "refs/heads/master";
   inputs.src-parsetoml-master.owner = "NimParsers";
   inputs.src-parsetoml-master.repo  = "parsetoml";
+  inputs.src-parsetoml-master.dir   = "";
   inputs.src-parsetoml-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
