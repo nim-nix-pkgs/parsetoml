@@ -11,7 +11,6 @@
   inputs.src-parsetoml-v0_6_0.ref   = "refs/tags/v0.6.0";
   inputs.src-parsetoml-v0_6_0.owner = "NimParsers";
   inputs.src-parsetoml-v0_6_0.repo  = "parsetoml";
-  inputs.src-parsetoml-v0_6_0.dir   = "";
   inputs.src-parsetoml-v0_6_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
