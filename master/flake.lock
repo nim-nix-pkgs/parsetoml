@@ -42,11 +42,11 @@
     "src-parsetoml-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1625258249,
-        "narHash": "sha256-AOCPwdxxch3DA60Ug5eU13y+EVSrPGqiX3l66kUS0HM=",
+        "lastModified": 1649158662,
+        "narHash": "sha256-zh5PKsG6C9vyIXI26Paq6/CAXk+0O8zUudCPhBB5WyM=",
         "owner": "NimParsers",
         "repo": "parsetoml",
-        "rev": "692beb44fa5641f6b7be05a46a94f4b44f91907a",
+        "rev": "609e03e0a7d69d25330786f2cac034c8dd265ed5",
         "type": "github"
       },
       "original": {
